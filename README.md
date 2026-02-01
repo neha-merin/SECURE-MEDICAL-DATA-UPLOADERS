@@ -16,4 +16,11 @@ This project demonstrates a secure web application for uploading medical text fi
 - Uploads files securely to cloud storage
 - Hosted live using Firebase Hosting
 
+## ⚠️ Note on Live Demo
+
+The application was fully functional during development and testing.  
+Firebase Cloud Storage requires an active billing plan; billing has since been disabled to avoid unnecessary charges.
+
+Screenshots included in this repository demonstrate successful file uploads and cloud storage integration.
+
 
